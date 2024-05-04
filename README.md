@@ -44,4 +44,18 @@ This Node.js project implements user authentication and authorization functional
 This project provides a robust authentication and authorization system for web applications, ensuring secure access control and user management. It can be easily integrated into various applications requiring user authentication functionalities.
 
 ## Preview
+**Signup Route ->**
+!["The signup route"](./Assets/signup.jpg)
+<br><br>
 
+**Login Route ->**
+!["The login route"](./Assets/login.jpg)
+<br><br>
+
+**Fetching Admin details throw a token ->**
+!["The Admin fecting route"](./Assets/admin.jpg)
+<br><br>
+
+**Fetching Admin details throw a Bearer token ->**
+!["The Admin fecting route"](./Assets/bearer%20token.jpg)
+<br><br>
